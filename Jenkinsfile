@@ -2,7 +2,6 @@ pipeline {
     agent any
 
     environment { 
-        PKF="portal-ui"
     } 
 
 //  define {
